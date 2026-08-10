@@ -1,0 +1,36 @@
+CASE ID: CASE-001
+PLATFORM: WhatsApp
+CONTEXT: Lowongan kerja Data Analyst
+
+[02/08/2026 09:10] Recruiter:
+Selamat pagi. Kami dari PT Nusantara Digital menginformasikan bahwa Anda lolos seleksi awal untuk posisi Data Analyst.
+
+[02/08/2026 09:13] Candidate:
+Apakah ada interview terlebih dahulu?
+
+[02/08/2026 09:15] Recruiter:
+Tidak perlu karena CV Anda sudah memenuhi seluruh kualifikasi. Anda hanya perlu menyelesaikan proses administrasi.
+
+[02/08/2026 09:16] Recruiter:
+Silakan membayar biaya administrasi dan seragam sebesar Rp750.000. Dana akan dikembalikan bersama gaji pertama.
+
+[02/08/2026 09:17] Candidate:
+Apakah pembayaran dilakukan melalui website resmi perusahaan?
+
+[02/08/2026 09:18] Recruiter:
+Tidak perlu. Transfer langsung ke rekening tim HR berikut.
+
+Bank Nusantara
+Nomor rekening: 123456789012
+Nama pemilik: Budi Santoso
+
+[02/08/2026 09:19] Recruiter:
+Pembayaran harus diselesaikan dalam 15 menit. Kalau terlambat, posisi akan diberikan kepada kandidat lain.
+
+[02/08/2026 09:22] Candidate:
+Saya cek terlebih dahulu.
+
+INFORMASI TAMBAHAN PENGGUNA:
+- Pengguna belum mentransfer uang.
+- Pengguna belum memberikan OTP, PIN, password, atau kode verifikasi.
+- Pengguna mendapatkan lowongan melalui pesan WhatsApp, bukan melalui situs resmi perusahaan.
